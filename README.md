@@ -30,7 +30,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Ryndine/app_game_analytics">
+  <a href="https://github.com/Ryndine/game_analytics_app">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -39,14 +39,14 @@
   <p align="center">
     Anlytical platform for game industry analytics.
     <br />
-    <a href="https://github.com/Ryndine/app_game_analytics"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ryndine/game_analytics_app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ryndine/app_game_analytics">View Demo</a>
+    <a href="https://github.com/Ryndine/game_analytics_app">View Demo</a>
     ·
-    <a href="https://github.com/Ryndine/app_game_analytics/issues">Report Bug</a>
+    <a href="https://github.com/Ryndine/game_analytics_app/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Ryndine/app_game_analytics/issues">Request Feature</a>
+    <a href="https://github.com/Ryndine/game_analytics_app/issues">Request Feature</a>
   </p>
 </div>
 
@@ -139,7 +139,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ Visualization ]
     - [ Tableau ]
 
-See the [open issues](https://github.com/Ryndine/app_game_analytics/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/Ryndine/game_analytics_app/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -159,7 +159,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Ryan (Ryndine) Mangeno - [@ry.andine](https://www.instagram.com/ry.andine/) - ryandine.contact@gmail.com
 
-Project Link: [https://github.com/Ryndine/app_game_analytics](https://github.com/Ryndine/app_game_analytics)
+Project Link: [https://github.com/Ryndine/game_analytics_app](https://github.com/Ryndine/game_analytics_app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -176,16 +176,16 @@ Project Link: [https://github.com/Ryndine/app_game_analytics](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ryndine/app_game_analytics.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ryndine/app_game_analytics/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ryndine/app_game_analytics.svg?style=for-the-badge
-[forks-url]: https://github.com/Ryndine/app_game_analytics/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ryndine/app_game_analytics.svg?style=for-the-badge
-[stars-url]: https://github.com/Ryndine/app_game_analytics/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ryndine/app_game_analytics.svg?style=for-the-badge
-[issues-url]: https://github.com/Ryndine/app_game_analytics/issues
-[license-shield]: https://img.shields.io/github/license/Ryndine/app_game_analytics.svg?style=for-the-badge
-[license-url]: https://github.com/Ryndine/app_game_analytics/blob/main/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/Ryndine/game_analytics_app.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ryndine/game_analytics_app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ryndine/game_analytics_app.svg?style=for-the-badge
+[forks-url]: https://github.com/Ryndine/game_analytics_app/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ryndine/game_analytics_app.svg?style=for-the-badge
+[stars-url]: https://github.com/Ryndine/game_analytics_app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ryndine/game_analytics_app.svg?style=for-the-badge
+[issues-url]: https://github.com/Ryndine/game_analytics_app/issues
+[license-shield]: https://img.shields.io/github/license/Ryndine/game_analytics_app.svg?style=for-the-badge
+[license-url]: https://github.com/Ryndine/game_analytics_app/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ryan-mangeno/
 [product-screenshot]: images/screenshot.png
