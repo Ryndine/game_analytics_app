@@ -37,7 +37,7 @@
 <h3 align="center">Game Analytics App</h3>
 
   <p align="center">
-    Anlytical platform for game industry analytics.
+    Analytical platform for game industry.
     <br />
     <a href="https://github.com/Ryndine/game_analytics_app"><strong>Explore the docs »</strong></a>
     <br />
