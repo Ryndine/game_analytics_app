@@ -132,3 +132,4 @@ dmypy.json
 .pyre/
 aws-credentials.py
 config.json
+awsconfig.py
