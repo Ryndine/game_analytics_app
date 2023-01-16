@@ -130,7 +130,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 aws_documentation.ipynb.bk
 awsconfig.py
 config.json
+=======
+aws-credentials.py
+config.json
 awsconfig.py
+>>>>>>> 07e7a667577a4a48703228ace3ce8531408374db
